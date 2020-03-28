@@ -1,0 +1,6 @@
+{
+    "components": [
+        "tabs",
+        "qrcode"
+    ]
+}
